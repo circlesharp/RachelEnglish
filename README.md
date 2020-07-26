@@ -21,5 +21,5 @@
 7. link -> <> / [title](link)
 
 ## appendix
-1. [国际音标]( <https://baike.baidu.com/item/%E8%8B%B1%E8%AF%AD%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87/7503393>)
+1. [国际音标](https://baike.baidu.com/item/%E8%8B%B1%E8%AF%AD%E5%9B%BD%E9%99%85%E9%9F%B3%E6%A0%87/7503393)
 
