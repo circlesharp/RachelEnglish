@@ -2,8 +2,7 @@
 
 ## basic information
 --------------------
-1. title: 
-2. source: `urlHere`
+[title](url)
 
 ## main idea
 ------------
